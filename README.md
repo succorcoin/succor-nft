@@ -1,0 +1,2 @@
+# succor-nft
+From Here you can mint NFT's, buy NFT's, sell NFT's. Succor Coin NFT's Marketplace will charge only 15% of Your NFT Price . 60% will be use for charity and 40% will be use for Future Development of the percent charged from you sale.  Participate on Succor Land Badges Auction 👉👉 https://succorcoin.com/nft/succor-nft-entrance-badge/  All our NFT Smart Contracts are fully ERC721 compatible, therefore can be viewed or traded on Opensea or any other marketplace compatible with ERC-721.
